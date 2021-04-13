@@ -69,10 +69,11 @@ export default class Projects extends Component {
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
 							<h3>Tarp Online University</h3>
+							<a href="https://staff.testing.aims.ac.ug/auth-power">
 								<div className="project" style={{backgroundImage: 'url(images/tarp.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://staff.testing.aims.ac.ug/auth-power">Terp</a></h3>
+											<h3>Terp</h3>
 											<span>TERP Online UniversityEkampus/AIMSv2.0 Staff Portal</span>
 											{/* <p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -82,6 +83,7 @@ export default class Projects extends Component {
 										</div>
 									</div>
 								</div>
+							</a>
 							</div>
 							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
