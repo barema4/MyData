@@ -118,7 +118,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a href="https://barema4.github.io/MyData/" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
 						</div>
 					</div>
