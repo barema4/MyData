@@ -5,7 +5,7 @@ export default class Introduction extends Component {
     return (
       <div>
 
-        <section id="colorlib-hero" className="" data-section="home">
+        {/* <section id="colorlib-hero" className="" data-section="home">
           <div className="hello">
                 <div className="container-fluid">
                   <div className="row">
@@ -41,7 +41,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
           </div>
-        </section>
+        </section> */}
       </div>
     )
   }

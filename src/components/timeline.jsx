@@ -50,10 +50,22 @@ activities very efficiently and more productively.. I am also exploring the role
                       </div>
                       <div className="timeline-label">
                         <h2>Frontend Developer Cowsoko Kenya <span> Jan-2019 to July-2019</span></h2>
-                        <p>Built the frontend of the Dairynomics using Vuejs and Vuex that connected farmers to the modern market.
+                        <p>Built the frontend of the Dairynomics using React and Redux that connected farmers to the modern market.
                           Built APIs for both chat and e-commerce application using Nodejs/Express.
 
                           Tools used include Slack, git, Zoom, Pivotal Tracker and Gitlab</p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Junior Software Developer, Afrosoft IT Solutions Kampala<span> May-2017 - Jan-2018</span></h2>
+                        <p>Developed an application used for detecting diseases in cattles and also participated in today 's
+software development activities that involves designing, Analysis and development</p> 
                       </div>
                     </div>
                   </article>
