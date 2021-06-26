@@ -34,12 +34,7 @@ activities very efficiently and more productively.. I am also exploring the role
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer at Andela<span> Feb-2018 May-2020</span></h2>
-                        <p>Contributed to the company’s strategy of providing startups and enterprise companies with world-class developers by being placed as a full-stack web developer to one of Andela’s clients.</p>
-                        <p>Implemented full-stack development of enterprise applications in Agile / Scrum environment.</p>
-                        <p>Established clean, efficient code based on requirements and specifications for backend applications.</p>
-                        <p>Designed and developed single-page frontend applications using React/Redux.</p>
-                        <p>Led a team of 5 developers and promoted pair programming that increased team productivity.</p>
-                        <p> Stack: Python/Django, NodeJS/Express, JavaScript ES6, React/Redux, VueJs/Vuex, REST,Docker</p>
+                        <p>Andela provides companies with access to the top 1% of global tech talent. We identify high-potential developers on the African continent, shape them into world-class technical leaders, and pair them with companies as full-time, distributed team members. This allows Andela's partners, which range from startups to Fortune 500s, to accelerate their product roadmaps while minimizing time spent interviewing, on-boarding, and training new hires.</p>
                       </div>
                     </div>
                   </article>

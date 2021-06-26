@@ -85,6 +85,24 @@ export default class Projects extends Component {
 								</div>
 							</a>
 							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							<h3>RentalUg</h3>
+							<a href="https://rentalsug.com/">
+								<div className="project" style={{backgroundImage: 'url(images/rentals.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3>RentalUg</h3>
+											<span>Discover your perfect home today</span>
+											{/* <p className="icon">
+												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span>
+												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											</p> */}
+										</div>
+									</div>
+								</div>
+							</a>
+							</div>
 							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
