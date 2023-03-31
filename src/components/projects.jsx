@@ -57,29 +57,19 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3>Dailynomics</h3>
 											<span>Daily Farming</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
+		
 										</div>
 									</div>
 								</div>
 								</a>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-							<h3>Tarp Online University</h3>
-							<a href="https://staff.testing.aims.ac.ug/auth-power">
-								<div className="project" style={{backgroundImage: 'url(images/tarp.png)'}}>
+							<h3>WizrMeets</h3>
+							<a href="https://wizrconnect.com/">
+								<div className="project" style={{backgroundImage: 'url(images/mwzir.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3>Terp</h3>
-											<span>TERP Online UniversityEkampus/AIMSv2.0 Staff Portal</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
+											<h3>WizrMeets</h3>
 										</div>
 									</div>
 								</div>
@@ -93,46 +83,13 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3>RentalUg</h3>
 											<span>Discover your perfect home today</span>
-											{/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
+											
 										</div>
 									</div>
 								</div>
 							</a>
 							</div>
-							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div> */}
-							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div> */}
+							
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">

@@ -14,9 +14,8 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a Software Engineer with bachelor's degree  from Makerere University with web development as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years </p>
-                    <p>4 years of professional software engineering experience growing and developing distributed systems,
-                        APIs, and single-page applications at Andela and BPOSeats using Javascript and Python.With more
-                        focus on frontend development with a passion for responsive website design and a firm believer in the
+                    <p>5 years of professional software engineering experience developing distributed systems,
+                        APIs, and single-page applications using Javascript and Python.With more focus on frontend development with a passion for responsive website design and a firm believer in the
                         mobile-first approach. </p>
                     </div>
                 </div>
