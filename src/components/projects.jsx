@@ -31,6 +31,20 @@ export default class Projects extends Component {
 								</div>
 								</a>
 							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<h3>Scalema</h3>
+							<a href="https://scalema.com/">
+								<div className="project" style={{backgroundImage: 'url(images/scalema.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3>Scalema</h3>
+											<span>Business Solutions Engine</span>
+		
+										</div>
+									</div>
+								</div>
+								</a>
+							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 							<h3>Applybpo.com</h3>
 							<a href="https://applybpo.com/?page=1">
@@ -74,6 +88,20 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</a>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<h3>Hqzen</h3>
+							<a href="https://hqzen.com/">
+								<div className="project" style={{backgroundImage: 'url(images/Hqzen.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3>Hqzen</h3>
+											<span>An entire ecosystem of tools for engaged custom solutions for the individual or scaling teams.</span>
+		
+										</div>
+									</div>
+								</div>
+								</a>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
 							<h3>RentalUg</h3>

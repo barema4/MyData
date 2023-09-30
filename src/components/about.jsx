@@ -13,10 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a Software Engineer with bachelor's degree  from Makerere University with web development as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years </p>
-                    <p>5 years of professional software engineering experience developing distributed systems,
-                        APIs, and single-page applications using Javascript and Python.With more focus on frontend development with a passion for responsive website design and a firm believer in the
-                        mobile-first approach. </p>
+                    
+                    <p>Results-driven Senior Frontend Engineer with 5 years of expertise in crafting visually striking, responsive, and high-performance web interfaces. Proficient in React, Redux, Nest.Js, Vuejs, Vuex, Nodejs, Python, Javascript, TypeScript, HTML5, and CSS3. Adept at cross-functional collaboration to deliver robust and scalable frontend solutions </p>
                     </div>
                 </div>
                 </div>
@@ -61,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing DevOps course  on Udemy and learning how to work with tools like Jenkins, Docker, Kubernetes</p>
+                    <h3>Mobile Development</h3>
+                    <p>Experience in building hybrid applications using ReactNative</p>
                 </div>
                 </div>
             </div>
