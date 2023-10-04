@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Frontend Engineer at MasterWizr <span> 05-2021- Present</span></h2>
+                        <h2>Software Engineer at MasterWizr <span> 05-2021- Present</span></h2>
                         <p>Built  the world's premier presentation and meeting tool that makes all meetings more professional, engaging and efficient whether online and in person in Norway.</p>
                       </div>
                     </div>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Frontend Engineer at BPOSeats <span> 05-2020-05/2021</span></h2>
+                        <h2>Software  Engineer at BPOSeats <span> 05-2020-05/2021</span></h2>
                         <p>Building a remotely centralized operations system for BPOSeats to monitor and manage a distributed team, and Increase operational efficiency through intelligent time-tracking. My major part of the work has been into the field of creating sustainable and scalable reusable components that help employees that carry out daily company’s
                           activities very efficiently and more productively.. I am also exploring the role of container technology like Docker and container-orchrastation technologies like Kubernetes, Swarm to create industry standard production environments.</p>
                       </div>
