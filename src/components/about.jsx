@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     
-                    <p>Results-driven Senior Frontend Engineer with 5 years of expertise in crafting visually striking, responsive, and high-performance web interfaces. Proficient in React, Redux, Nest.Js, Vuejs, Vuex, Nodejs, Python, Javascript, TypeScript, HTML5, and CSS3. Adept at cross-functional collaboration to deliver robust and scalable frontend solutions </p>
+                    <p>Results-driven Software Engineer with 5 years of expertise in crafting visually striking, responsive, and high-performance web applications. Proficient in React, Redux, Nest.Js, Vuejs, Vuex, Nodejs, Python, Javascript, TypeScript, HTML5, and CSS3. Adept at cross-functional collaboration to deliver robust and scalable frontend solutions </p>
                     </div>
                 </div>
                 </div>
